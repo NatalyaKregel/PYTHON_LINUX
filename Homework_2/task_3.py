@@ -80,3 +80,5 @@ while main_flag:
         amount, count = take_off(amount, n, count)
     else:
         break
+
+    
