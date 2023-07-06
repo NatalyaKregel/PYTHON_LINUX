@@ -7,3 +7,5 @@ a = 'hello world'
 print(type(a))
 a = 42.0 * 3.1454255 / 2.71828
 print(type(a))
+
+
