@@ -9,12 +9,13 @@
 и False в противном случае. Передаваться должна только одна строка, разбиение вывода
 использовать не нужно.
 
-:point_right: [Перейти к решению](https://github.com/NatalyaKregel/PYTHON_LINUX\Homework_1\task_01.py
+:point_right: [Перейти к решению](https://github.com/NatalyaKregel/PYTHON_LINUX/Homework_1/task_01.py
 
 Задание 2. (повышенной сложности). Доработать функцию из предыдущего задания таким образом,
 чтобы у нее появился дополнительный режим работы, в котором вывод разбивается на слова
 с удалением всех знаков пунктуации (их можно взять из списка string.punctuation модуля string).
 В этом режиме должно проверяться наличие слова в выводе.
 
-:point_right: [Перейти к решению](https://github.com/NatalyaKregel/PYTHON_LINUX\Homework_1\task_02.py
+:point_right: [Перейти к решению](https://github.com/NatalyaKregel/PYTHON_LINUX/blob/master/Homework_1/task_02.py
 
+:point_right: [Вначало](#return "Вернуться вначало")
