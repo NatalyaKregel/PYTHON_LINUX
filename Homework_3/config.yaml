@@ -1,0 +1,10 @@
+folder_tst: /home/nata/tst
+folder_in: /home/nata/tst/file
+folder_out: /home/nata/tst/out
+folder_ext: /home/nata/tst/ext
+folder_ext2: /home/nata/tst/ext2
+folder_badarx: /home/nata/tst/badarx
+count: 5
+size_of_file: 2
+name_of_arch: '*.7z'
+filename: 'stat.txt'
