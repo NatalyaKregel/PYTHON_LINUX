@@ -1,0 +1,16 @@
+folder_tst: /home/nata/tst
+folder_in: /home/nata2/tst/file
+folder_out: /home/nata2/tst/out
+folder_ext: /home/nata2/tst/ext
+folder_ext2: /home/nata2/tst/ext2
+folder_badarx: /home/nata2/tst/badarx
+count: 5
+size_of_file: 1
+name_of_arch: '*.7z'
+path_journal: /home/nata/journal.txt
+host: 0.0.0.0
+user: nata2
+password: "11"
+local_path: /home/nata/p7zip-full.deb
+remote_path: /home/nata2/p7zip-full.deb
+pkgname: p7zip-full
